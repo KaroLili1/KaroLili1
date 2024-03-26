@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Karol Liliana Lopez
+- 👋 Hello!  I’m Karol Liliana Lopez
 - 👀 I’m business analyst very interested in databases management, data science and data storytelling.
 - 🌱 I’m currently learning ![R Studio](https://img.icons8.com/bubbles/50/r--v2.png) Programming for statistical analysis. 
 - :octocat: I’m open to collaborate on data analysis projects.
