@@ -1,6 +1,6 @@
 # Hello!  I’m Karol Liliana 👋
 - 👀 I’m business analyst very interested in databases management, data science and data storytelling.
-- 🌱 I’m currently learning ![R Studio](https://img.icons8.com/bubbles/50/r--v2.png) Programming for statistical analysis. 
+- 🌱 I’m currently learning ![r (3)](https://github.com/KaroLili1/KaroLili1/assets/155495785/b0d76da7-5fcb-4f24-9724-f488b8f47027) Programming for statistical analysis. 
 - :octocat: I’m open to collaborate on data analysis projects.
 - 💗 I love painting, knowing more about the universe, and learning something new every day.
 - 📫 You can reach me on karolianalopez@gmail.com
