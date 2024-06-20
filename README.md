@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ![r (3)](https://github.com/KaroLili1/KaroLili1/assets/155495785/b0d76da7-5fcb-4f24-9724-f488b8f47027) Programming for statistical analysis. 
 - :octocat: I’m open to collaborate on data analysis projects.
 - 💗 I love painting, knowing more about the universe, and learning something new every day.
-- 📫 You can reach me on karolianalopez@gmail.com and also, explore my projects here 👉 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/KaroLili1/myBAPortfolio.com.git)  to see how I leverage technology tools to extract valuable information from raw datasets.
+- 📫 You can reach me on karolianalopez@gmail.com and also, explore my projects here 👉 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/KaroLili1/myBAPortfolio.com)  to see how I leverage technology tools to extract valuable information from raw datasets.
 
 ---
 
