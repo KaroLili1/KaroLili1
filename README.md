@@ -1,39 +1,57 @@
 # Hello, I’m Karol Liliana! 👋
-- Data Analytics professional transitioning from operations management.
-- 📣 Passionate about turning data into actionable insights. At present I am seeking exciting opportunities to apply my analytical skills and drive business insights through data visualization techniques.
-- 🌱 I’m currently learning ![Python (3)](https://github.com/user-attachments/assets/99262984-e324-48e0-a69f-750c30798f5e) Programming for statistical analysis. 
-- :octocat: I’m open to collaborate on data analysis projects.
-- 💗 I love painting, knowing more about the universe, and learning something new every day.
-- 📫 You can reach me on karolianalopez@gmail.com and also, explore my projects here 👉 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/KaroLili1/myBAPortfolio.com)  to see how I leveraged technology tools to extract valuable information from raw datasets.
+Financial Operations Analyst | 4+ Years in AP Reconciliation & Compliance | Specialized in SQL, Python & Financial Data Analysis
+
+## About Me
+Data analyst with 4+ years of experience in financial operations at Cognizant Technology Solutions, where I prevented $1.5M in tax penalties through data-driven reconciliation analysis. I specialize in transforming complex financial datasets into actionable insights using SQL, Python, and BI tools. Currently building advanced analytics solutions focused on financial compliance, operational efficiency, and cross-functional reporting.
+
+📣 Passionate about turning data into actionable insights.
 
 ---
 
-## 🛠 Skills and Tools
+ ## 💼 Professional Highlights
+- **Financial Operations at Cognizant** (4+ years): AP reconciliation, invoice processing, compliance analysis.
+- **Prevented $1.5M in tax penalties** through data analysis and process optimization.
+- **Cross-functional coordination** across Poland, India, and Malaysia teams.
+- **Languages**: Spanish (native), English (C1) & Polish (B2).
+- :octocat: I’m open to collaborate on data analysis projects.
 
-#### SQL and DBMS like:
-  * ![google_bigquery-ar21](https://github.com/user-attachments/assets/c3a9a077-fc82-44e8-b72d-41cf241904e3)
-  * ![image](https://github.com/user-attachments/assets/88f7f6b2-4dc7-4f22-9aa1-f679289913a8)
-  * ![image](https://github.com/KaroLili1/KaroLili1/assets/155495785/044693e4-6ab2-4252-969f-7d5386de8ab8)
-#### Data Visualization tools like: 
-  * Power BI![image](https://github.com/KaroLili1/KaroLili1/assets/155495785/42552c10-1536-4e54-9009-7e4e363c3a0b)
-  * Tableau![image](https://github.com/KaroLili1/KaroLili1/assets/155495785/25592027-6875-4cec-bf9c-d103f341ec1e)
-#### Programs for analytics: 
-  * Excel![image](https://github.com/KaroLili1/KaroLili1/assets/155495785/580d35c6-cc03-4659-8a16-5a5763cff761)
-  * Google Sheets![image](https://github.com/user-attachments/assets/1afc5c26-63c6-4840-9659-84a601800600)
-  * ![numpy-ar21](https://github.com/user-attachments/assets/69e11ad7-ced5-487f-844e-dfb6742a59ea)
-  * ![Pandas_logo](https://github.com/user-attachments/assets/91733ff9-5c5c-475a-9394-2e45475ac9a2)
+---
+
+## 🎓 Continuous Professional Development
+**Advanced Data Analytics Program** | MATE Academy, Poland 
+Specialization: BigQuery optimization, Python, Comprehensive Statistical Analysis, advanced SQL (CTEs, window functions), GenerativeAI.
+
+**Microsoft Power BI Data Analyst (PL-300)** | In Progress  
+Deepening expertise in financial dashboards and automated reporting solutions
+
+---
+
+## 🛠 Technical Skills
+- **Data Analysis & SQL**: BigQuery, PostgreSQL, MySQL - Advanced querying, CTEs, window functions.
+- **Programming**: Python (Pandas, NumPy) for data manipulation and statistical analysis.
+- **Visualization**: Power BI, Tableau - Interactive dashboards for financial and operational analysis of KPIs, among other business sectors.
+- **Tools**: Excel (Advanced formulas, pivot tables), Google Sheets, Git.
+- **Domain Expertise**: Financial reconciliation, compliance analytics, AP/AR processes.
 
 ---
 
 ## 🧾 Featured Projects
-* 🛋️ [Furniture Sales Analysis](link) - SQL & Python analysis of sales patterns
-* 📊 [Customer Service Metrics](link) - Dashboard for service team KPIs
+🛋️ **[Furniture Sales Analysis](actual-link-here)**
+- SQL & Python analysis of sales patterns, identifying 23% revenue increase opportunity in Q4.
+- Technologies: BigQuery, Python (Pandas), Tableau.
+
+📈 **[Customer Service Metrics](actual-link-here)**
+- Dashboard for service team KPIs
+
+📊 **[Financial Compliance Dashboard](actual-link-here)**
+- Power BI dashboard tracking invoice processing and reconciliation KPIs
+- Reduced processing time by 15% through automated alerts
 
 ---
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/KaroLili1/myBAPortfolio.com.git)  
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karol-liliana-lopez-analytics)
+## 📫 You Can Reach Me on
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/KaroLili1/myBAPortfolio.com.git) | [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karol-liliana-lopez-analytics) | [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://smartdataofbusinessandeverydaylife.blogspot.com) | email: karolianalopez@gmail.com
+
 
 <!---
 KaroLili1/KaroLili1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
