@@ -11,7 +11,7 @@
 ## 🛠 Skills and Tools
 
 Excel![image](https://github.com/KaroLili1/KaroLili1/assets/155495785/580d35c6-cc03-4659-8a16-5a5763cff761)
-Pandas![image].(https://github.com/pandas-dev/pandas/blob/master/web/pandas/static/img/pandas.svg)
+Pandas![image](https://github.com/pandas-dev/pandas/blob/master/web/pandas/static/img/pandas.svg)
 MySQL![image](https://github.com/KaroLili1/KaroLili1/assets/155495785/044693e4-6ab2-4252-969f-7d5386de8ab8)
 Power BI![image](https://github.com/KaroLili1/KaroLili1/assets/155495785/42552c10-1536-4e54-9009-7e4e363c3a0b)
 Tableau![image](https://github.com/KaroLili1/KaroLili1/assets/155495785/25592027-6875-4cec-bf9c-d103f341ec1e)
