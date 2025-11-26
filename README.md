@@ -1,5 +1,5 @@
 # Hello, I’m Karol Liliana! 👋
-Financial Operations Analyst | 4+ Years in AP Reconciliation & Compliance | Specialized in SQL, Python & Financial Data Analysis
+Financial Operations Analyst | 4+ Years in AP Reconciliation & Compliance | Master's Degree in Business Management | Specialized in SQL, Python & Financial Data Analysis
 
 ## About Me
 Data analyst with 4+ years of experience in financial operations at Cognizant Technology Solutions, where I prevented $1.5M in tax penalties through data-driven reconciliation analysis. I specialize in transforming complex financial datasets into actionable insights using SQL, Python, and BI tools. Currently building advanced analytics solutions focused on financial compliance, operational efficiency, and cross-functional reporting.
@@ -11,7 +11,8 @@ Data analyst with 4+ years of experience in financial operations at Cognizant Te
  ## 💼 Professional Highlights
 - **Financial Operations at Cognizant** (4+ years): AP reconciliation, invoice processing, compliance analysis.
 - **Prevented $1.5M in tax penalties** through data analysis and process optimization.
-- **Cross-functional coordination** across Poland, India, and Malaysia teams.
+- **Expertise:** Financial analysis, margin optimization, KPI tracking, cross-functional coordination.
+- **Master's Degree in Business Management** (Specialization: Human Resources).
 - **Languages**: Spanish (native), English (C1) & Polish (B2).
 - :octocat: I’m open to collaborate on data analysis projects.
 
