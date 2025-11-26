@@ -37,13 +37,11 @@ Deepening expertise in financial dashboards and automated reporting solutions
 ---
 
 ## 🧾 Featured Projects
-🛋️ **[Furniture Sales Analysis](actual-link-here)**
-- SQL & Python analysis of sales patterns, identifying 23% revenue increase opportunity in Q4.
-- Technologies: BigQuery, Python (Pandas), Tableau.
+🛋️ **[E-Commerce Financial Performance Analysis](https://github.com/KaroLili1/ecommerce-financial-analysis.git)**
+- A comprehensive financial analysis of e-commerce operations, leveraging 100K+ transactions to identify profitability drivers, customer segments, and strategic growth opportunities.
+- Technologies: SQL BigQuery, Python (Pandas, Matplotlib, Seaborn), Jupyter.
 
-📈 **[Customer Service Metrics](actual-link-here)**
-- Dashboard for service team KPIs
-
+**Upcoming Projects...**  
 📊 **[Financial Compliance Dashboard](actual-link-here)**
 - Power BI dashboard tracking invoice processing and reconciliation KPIs
 - Reduced processing time by 15% through automated alerts
