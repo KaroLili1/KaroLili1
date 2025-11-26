@@ -50,7 +50,7 @@ Deepening expertise in financial dashboards and automated reporting solutions
 ---
 
 ## 📫 You Can Reach Me on
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/KaroLili1/myBAPortfolio.com.git) | [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karol-liliana-lopez-analytics) | [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://smartdataofbusinessandeverydaylife.blogspot.com) | email: karolianalopez@gmail.com
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/KaroLili1/ecommerce-financial-analysis.git) | [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karol-liliana-lopez-analytics) | [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://smartdataofbusinessandeverydaylife.blogspot.com) | email: karolianalopez@gmail.com
 
 
 <!---
